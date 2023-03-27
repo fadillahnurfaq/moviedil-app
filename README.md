@@ -1,6 +1,6 @@
 # Moviedil App (Flutter Movie App) //API Consumed
 
-Moviedil App adalah aplikasi pencarian film baik itu Movies Ataupun Tv Series yang dapat simpan Watchlist Movies dan Tv Series Terintegrasi dengan Api Dari https://api.themoviedb.org, terdapat detail pemeran pada film,dan detail season pada tv series.
+Moviedil App adalah aplikasi pencarian film baik itu Movies Ataupun Tv Series yang dapat simpan Watchlist Movies dan Tv Series Terintegrasi dengan Api Dari https://api.themoviedb.org, terdapat detail pemeran pada film,dan detail season pada tv series. Menggunakan State Management Bloc.
 
 
 ## Link Aplikasi
