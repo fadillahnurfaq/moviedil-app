@@ -4,7 +4,7 @@ Moviedil App adalah aplikasi pencarian film baik itu Movies Ataupun Tv Series ya
 
 
 ## Link Aplikasi
-https://drive.google.com/file/d/1euWMK10CqgWwD8cJPXJBcVg-jiq5ljVP/view?usp=share_link
+https://drive.google.com/file/d/16DPmXnUxHLCHh6oEKHOjYWpUSlzzeswV/view?usp=share_link
 
 ## Detail Aplikasi
 
