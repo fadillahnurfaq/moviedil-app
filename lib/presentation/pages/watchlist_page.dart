@@ -28,7 +28,6 @@ class _WatchLisPageState extends State<WatchLisPage>
     const Text('Movies'),
     const Text(
       'TV Series',
-      key: Key('tabTvSeriesWatchlist'),
     ),
   ];
 

@@ -140,7 +140,8 @@ class MovieDetailContent extends StatelessWidget {
               clipBehavior: Clip.antiAlias,
               child: InkWell(
                 onTap: () {
-                  Get.back();
+                  // Get.back();
+                  Navigator.pop(context);
                 },
                 child: const SizedBox(
                   height: 40.0,
